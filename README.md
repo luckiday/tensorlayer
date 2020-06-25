@@ -68,7 +68,6 @@ You can find a large collection of examples that use TensorLayer in [here](examp
 	</div>
 </a>
 
-
 # Getting Start
 
 TensorLayer 2.0 relies on TensorFlow, numpy, and others. To use GPUs, CUDA and cuDNN are required.
